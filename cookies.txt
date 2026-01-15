@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.avangate.com	TRUE	/	FALSE	1999999999	visid_incap_848850	/j1+tyvvQgC1dD9FAbIjSZh7ZWkAAAAAQUIPAAAAAACmRqp9CM2Wu7/46RMGMlrd
+.avangate.com	TRUE	/	FALSE	1999999999	incap_ses_747_848850	Ze0MCywZ1UNu2igcm+BdCph7ZWkAAAAA7qe1RGk/RRpUl0KBIJbPOw==
+secure.avangate.com	TRUE	/	FALSE	1999999999	SameSite	None
+.youtube.com	TRUE	/	FALSE	1999999999	__Secure-YNID	15.YT=REAGE7JcukaVLV9oKJO63K9ks_WODVHCYKXr_0x232dGxLeBOubLrVvl__c1MfE_NkWaqjP23Y8R4WgQ-IZjM8yMwJgf_Y8v-PsonW7d_XZfCExAoR_oKMU8k8p2-3JANaj2FQwsBa9n0Oc8MwY8P6AEYJaAq4XvlRcdSh2YaklqfghmbqkV7_MZPX2dqiiKhjet6Iu3ky4prp8ob_C_CyUr4ljIgIrLyRRTAa4xarM-FoU7WBNRVFUnmJn9jo-1T0gw3U7D_CZFdyIYDp5Dov7xd-8wiSJEJZ7AiDXM2kctfNM1mr5KF328D_JhAbKEfheAGznJGe0h-_iqK4g_NQ
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	-miOxqFQSnY
+youtube.com	TRUE	/	FALSE	1999999999	__Secure-ROLLOUT_TOKEN	CNjm2ZHE5feSqAEQ4_SKjoyHkgMY4_SKjoyHkgM%3D
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	zM5YuryshKE
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgLA%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+

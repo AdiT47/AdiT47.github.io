@@ -1,0 +1,13 @@
+# System
+.DS_Store
+
+# Rust / Cargo
+.cargo/
+target/
+
+# Node (if ever used)
+node_modules/
+
+# Env files
+.env
+
